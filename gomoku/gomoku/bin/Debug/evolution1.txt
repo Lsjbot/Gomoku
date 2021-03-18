@@ -1,0 +1,2 @@
+Player_1aa	0	wins0	losses	dummy	0,000	noise	0,243	oxratio	0,480	optimaldensity	10,033	twos	7,297	threes	21,256	fours	30,807	openfours	94,979	pot4	8,995	free	0,088	xxx	0,968	density	-1,044		1,077
+Player_1	0	wins0	losses	dummy	0,000	noise	0,258	oxratio	0,435	optimaldensity	9,682	twos	8,914	threes	19,247	fours	27,412	openfours	92,543	pot4	10,889	free	0,090	xxx	0,912	density	-1,133		1,028

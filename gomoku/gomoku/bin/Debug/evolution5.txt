@@ -1,0 +1,10 @@
+Player_3ababbdaaef	0	wins0	losses	dummy	0,000	noise	0,226	oxratio	0,953	optimaldensity	10,624	twos	19,031	threes	11,660	fours	34,554	openfours	67,886	pot4	11,769	free	0,078	xxx	0,515	density	-0,617		0,901
+Player_3ababbdaaefc	0	wins0	losses	dummy	0,000	noise	0,228	oxratio	0,936	optimaldensity	10,577	twos	19,294	threes	11,251	fours	34,429	openfours	68,907	pot4	11,924	free	0,078	xxx	0,528	density	-0,613		0,889
+Player_3ababbdaaeeacbb	0	wins0	losses	dummy	0,000	noise	0,262	oxratio	0,959	optimaldensity	9,754	twos	22,982	threes	11,305	fours	39,410	openfours	79,559	pot4	12,893	free	0,091	xxx	0,585	density	-0,615		0,801
+Player_3ababbdaaefca	0	wins0	losses	dummy	0,000	noise	0,221	oxratio	0,921	optimaldensity	10,725	twos	18,702	threes	11,064	fours	34,043	openfours	69,105	pot4	11,662	free	0,076	xxx	0,526	density	-0,596		0,919
+Player_3ababbdaaeeacbbb	0	wins0	losses	dummy	0,000	noise	0,264	oxratio	0,962	optimaldensity	9,742	twos	23,697	threes	11,259	fours	38,892	openfours	79,224	pot4	12,516	free	0,094	xxx	0,588	density	-0,614		0,814
+Player_3ababbdaa	0	wins0	losses	dummy	0,000	noise	0,258	oxratio	0,976	optimaldensity	9,874	twos	20,325	threes	12,920	fours	36,908	openfours	73,665	pot4	11,610	free	0,080	xxx	0,520	density	-0,671		0,904
+Player_3ababbdaaefda	0	wins0	losses	dummy	0,000	noise	0,230	oxratio	0,962	optimaldensity	10,380	twos	19,118	threes	11,202	fours	34,279	openfours	68,348	pot4	11,585	free	0,082	xxx	0,509	density	-0,643		0,933
+Player_3ababbdaah	0	wins0	losses	dummy	0,000	noise	0,260	oxratio	0,973	optimaldensity	9,994	twos	20,374	threes	13,193	fours	38,207	openfours	75,202	pot4	11,941	free	0,082	xxx	0,523	density	-0,664		0,887
+Player_3ababbdaaeeacbaaa	0	wins0	losses	dummy	0,000	noise	0,254	oxratio	0,896	optimaldensity	10,121	twos	22,039	threes	11,507	fours	38,849	openfours	82,897	pot4	12,491	free	0,091	xxx	0,577	density	-0,582		0,858
+Player_3ababbdaaefd	0	wins0	losses	dummy	0,000	noise	0,224	oxratio	0,937	optimaldensity	10,388	twos	18,922	threes	11,500	fours	34,467	openfours	68,650	pot4	11,945	free	0,079	xxx	0,515	density	-0,625		0,903

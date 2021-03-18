@@ -1,0 +1,10 @@
+Player_2bddaaaaadaaba	0	wins0	losses	dummy	0,000	noise	0,236	oxratio	0,358	optimaldensity	17,587	twos	13,470	threes	16,541	fours	21,427	openfours	39,297	pot4	9,530	free	0,084	xxx	1,086	density	-1,334		1,290
+Player_2bddaaaaadaabaa	0	wins0	losses	dummy	0,000	noise	0,236	oxratio	0,363	optimaldensity	17,641	twos	13,312	threes	16,186	fours	22,114	openfours	39,784	pot4	9,768	free	0,083	xxx	1,112	density	-1,378		1,249
+Player_2bddaaaaada	0	wins0	losses	dummy	0,000	noise	0,234	oxratio	0,353	optimaldensity	17,874	twos	13,497	threes	15,505	fours	21,512	openfours	41,387	pot4	9,935	free	0,085	xxx	1,152	density	-1,304		1,243
+Player_2bddaaafa	0	wins0	losses	dummy	0,000	noise	0,218	oxratio	0,377	optimaldensity	16,277	twos	14,043	threes	17,135	fours	20,796	openfours	35,157	pot4	8,555	free	0,097	xxx	1,220	density	-1,385		1,316
+Player_2bddaaa	0	wins0	losses	dummy	0,000	noise	0,226	oxratio	0,374	optimaldensity	17,332	twos	14,262	threes	16,581	fours	20,479	openfours	37,949	pot4	8,949	free	0,093	xxx	1,178	density	-1,484		1,329
+Player_2bddaaaaadaaa	0	wins0	losses	dummy	0,000	noise	0,231	oxratio	0,372	optimaldensity	17,495	twos	13,646	threes	15,570	fours	20,981	openfours	39,241	pot4	9,427	free	0,084	xxx	1,149	density	-1,322		1,273
+Player_2bddaaaaadaab	0	wins0	losses	dummy	0,000	noise	0,231	oxratio	0,367	optimaldensity	17,850	twos	13,944	threes	16,538	fours	21,208	openfours	39,289	pot4	9,405	free	0,084	xxx	1,096	density	-1,317		1,259
+Player_2bddaaaaa	0	wins0	losses	dummy	0,000	noise	0,229	oxratio	0,367	optimaldensity	17,419	twos	13,922	threes	15,917	fours	20,605	openfours	39,033	pot4	9,755	free	0,085	xxx	1,173	density	-1,323		1,295
+Player_2bddaaah	0	wins0	losses	dummy	0,000	noise	0,221	oxratio	0,378	optimaldensity	17,097	twos	13,628	threes	16,055	fours	19,517	openfours	36,504	pot4	8,519	free	0,096	xxx	1,174	density	-1,547		1,263
+Player_2bddaaafaaa	0	wins0	losses	dummy	0,000	noise	0,220	oxratio	0,377	optimaldensity	16,472	twos	13,547	threes	17,239	fours	20,231	openfours	35,926	pot4	8,488	free	0,102	xxx	1,242	density	-1,352		1,333
